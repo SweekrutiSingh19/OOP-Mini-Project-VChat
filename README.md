@@ -1,4 +1,4 @@
-# OOP-Project-VChat
+# OOP-Mini-Project-VChat
 VChat is a smart chatbot that can reply to your questions. VChat can also act as a mini search engine by creating a bridge between the user and various platforms like Google, YouTube and Wikipedia all within the same interface. VChat also consists of a health bot that can provide various suggestions based on user input.
 
 
